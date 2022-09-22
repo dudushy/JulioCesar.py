@@ -40,6 +40,8 @@ def julioCesar() -> None: #? Julio Cesar
 
 def main() -> None:
     julioCesar()
+    print("\n")
+    os.system("pause")
 
 #! Main
 if __name__ == "__main__":
