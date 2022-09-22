@@ -18,8 +18,8 @@ TITLE = """
 \\----------------------------------------------------------------------------------/
 """
 
-alfabeto = "abcdefghijklmnopqrstuvwxyz"
-alfabeto3seguintes = "defghijklmnopqrstuvwxyzabc"
+alfabeto = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+alfabeto3seguintes = "defghijklmnopqrstuvwxyzabcDEFGHIJKLMNOPQRSTUVWXYZABC"
 
 #* -- Functions
 def clearConsole() -> None: #? Clear console
